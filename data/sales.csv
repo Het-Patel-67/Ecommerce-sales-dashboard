@@ -1,0 +1,26 @@
+Order_ID,Customer_Name,Category,Product,Price,Quantity,Discount,State,Payment_Method,Rating,Order_Date
+1001,Amit,Electronics,Headphones,1500,2,100,Gujarat,UPI,4,2025-01-05
+1002,Riya,Fashion,T-Shirt,800,1,50,Maharashtra,Card,5,2025-01-08
+1003,Karan,Electronics,Keyboard,1200,1,0,Gujarat,Cash,4,2025-01-10
+1004,Priya,Home,Chair,3000,2,200,Rajasthan,UPI,3,2025-01-12
+1005,Rahul,Fashion,Shoes,2500,1,100,Delhi,Card,5,2025-01-15
+1006,Neha,Electronics,Mouse,700,3,50,Gujarat,UPI,4,2025-01-18
+1007,Ajay,Home,Table,4500,1,300,Maharashtra,Cash,5,2025-01-20
+1008,Pooja,Fashion,Jeans,1800,2,100,Gujarat,Card,4,2025-01-22
+1009,Vikas,Electronics,Laptop,55000,1,2000,Delhi,UPI,5,2025-01-25
+1010,Sneha,Home,Lamp,900,4,50,Rajasthan,Card,4,2025-01-28
+1011,Arjun,Electronics,Tablet,25000,1,1000, Maharashtra,UPI,5,2025-01-30
+1012,Simran,Fashion,Dress,2000,1,100,Maharashtra,Card,5,2025-01-31
+1013,Ananya,Home,Plant,500,5,50,Rajasthan,Cash,4,2025-02-01
+1014,Manish,Electronics,Smartphone,30000,1,1500,UP,Card,5,2025-02-03
+1015,Shreya,Fashion,Skirt,1200,2,100,Maharashtra,UPI,4,2025-02-05
+1016, Riya,Electronics,Tablet,25000,1,1000, Maharashtra,UPI,5,2025-02-07
+1017, Rohit,Home,Sofa,8000,1,500,Maharashtra,Card,5,2025-02-10
+1018, Priya,Electronics,Headphones,1500,2,100,Gujarat,UPI,4,2025-02-12
+1019, Kartik,Fashion,Shirt,1000,2,50,Maharashtra,Card,4,2025-02-15
+1020, Priya,Home,Television,15000,1,1000,Maharashtra,UPI,5,2025-02-18
+1021, Rahul,Electronics,Tablet,25000,1,1000, Maharashtra,UPI,5,2025-02-20
+1022, Sneha,Fashion,Blouse,1500,1,100,Maharashtra,Card,4,2025-02-22
+1023, Riya,Home,Bookshelf,2500,1,200,Maharashtra,UPI,4,2025-02-25
+1024, Arjun,Electronics,Smartphone,30000,1,1500, Maharashtra,Card,5,2025-02-28
+1025, Neha,Fashion,Top,900,2,50,Maharashtra,UPI,4,2025-03-01
